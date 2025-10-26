@@ -1,0 +1,13 @@
+.App {
+  position: relative;
+  min-height: 100vh;
+}
+
+.plantImg img {
+  position: fixed;
+  top: 150px;
+  left: 500px;
+  right: 0px;
+  /* border: 1px solid red; */
+  transform: rotate(-65deg);
+}

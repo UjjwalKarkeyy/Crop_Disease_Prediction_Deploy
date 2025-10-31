@@ -12,8 +12,8 @@ pipeline = joblib.load("./crop_disease_pipeline.pkl")
 
 app = FastAPI()
 origins = [
-    "http://localhost:5173",
-    "http://127.0.0.1:5173",
+    'http://croplysis.karkiujjwal.com.np',
+    'https://croplysis.karkiujjwal.com.np',
 ]
 app.add_middleware(
     CORSMiddleware, 

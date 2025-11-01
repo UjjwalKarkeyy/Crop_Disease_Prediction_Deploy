@@ -38,7 +38,7 @@ Currently, the model is trained on predicting for Tomato, Pepper, and Potato, an
     - Tomato Late Blight
     - Tomato Leaf Mold
     - Tomato Septoria Leaf Spot
-    - Tomato Spider Mites
+    - Tomato Spider Mites <br></br>
 The goal is to make AI-driven crop disease analysis accessible to farmers and agricultural experts worldwide.
 
 ---
